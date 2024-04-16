@@ -11,7 +11,7 @@ If you're using this code in a publication, please cite our paper.
                   year={2023}
                 }
   
-### System Requirements is same as [DiMP](https://github.com/visionml/pytracking).
+### System Requirements are the same as [DiMP](https://github.com/visionml/pytracking).
 
 **Pretrained Model and results**
 If you only run the tracker, you can use the pretrained model: 
