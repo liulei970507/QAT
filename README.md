@@ -15,5 +15,6 @@ If you're using this code in a publication, please cite our paper.
 
 **Pretrained Model and results**
 If you only run the tracker, you can use the pretrained model: 
-[Google Drive](https://drive.google.com/drive/folders/1_kVHMYLGRR61_-SQjs5Pznvtq-xzOhzo?usp=sharing)/[Baidu Yun](https://pan.baidu.com/s/1RuXGp1AXvb2MgfZUvCZ04w?pwd=1fvd).
-Also, results from pretrained model are provided in [Google Drive](https://drive.google.com/drive/folders/1ScGWAqddpV0hBXRHfrfTW75hp3q4y6E7?usp=sharing)/[Baidu Yun](https://pan.baidu.com/s/1SHIOQXOdmHUU4_iafMy6UA?pwd=x4da).
+[Google Drive](https://drive.google.com/drive/folders/1fZ9uS8CdVaTe4Z3rD7Wj-hxUYTjTybin?usp=sharing)/[Baidu Yun](https://pan.baidu.com/s/1IlK-zaEVgMmKuFunGPt7Iw?pwd=52zi).
+Also, results from pretrained model are provided in [Google Drive](https://drive.google.com/drive/folders/1PLXtqZd-anLila_IDCSjKdyOZs6JYiAf?usp=sharing)/[Baidu Yun](https://pan.baidu.com/s/1IEXXdUiQb-KsI4BkGTZTbA?pwd=nars).
+
